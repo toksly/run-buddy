@@ -1,0 +1,19 @@
+body {
+    /* more on this crazy alphanumerical value in a minute! */
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
